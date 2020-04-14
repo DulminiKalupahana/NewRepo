@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: 5
+Bundle-SymbolicName: Tomcat8.5
+Bundle-Version: 1.0.0
+Automatic-Module-Name: Tomcat8.5
+Bundle-RequiredExecutionEnvironment: JavaSE-13
